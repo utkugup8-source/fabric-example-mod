@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "fps_boost_animasyon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "name": "FPS Boost - No Animations",
   "description": "1.16.5 Mojo Launcher icin animasyonlari kapatir.",
   "environment": "client",
