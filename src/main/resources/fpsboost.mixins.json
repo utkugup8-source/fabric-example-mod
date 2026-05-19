@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "net.fabricmc.example.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "SpriteContentsMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
+
